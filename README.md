@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="apps/xr/public/Gemini_Generated_Image_rhxwm5rhxwm5rhxw.jpeg" alt="Scale project showcase" width="100%">
+</p>
+
+<p align="center">
   <img src="docs/assets/scale-logo.png" alt="Scale" width="180">
 </p>
 
